@@ -1,0 +1,70 @@
+/*
+@Autor: Jéssica
+ */
+@import url('https://fonts.googleapis.com/css2?family=Vina+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {
+    text-align: center;
+    background-color: #1f1e1e;
+}
+
+#titulo{
+    text-align: center;
+    font-family: 'Vina Sans', sans-serif;
+    color: #a90808;
+    font-size: 90px;
+    margin-top: 0px;
+}
+
+#subtitulo{
+    color: #a90808;
+    font-size: 18px;
+    font-family: "AKG Verdana";
+    text-align: center;
+}
+
+#subtitulo2{
+    font-family: 'Bebas Neue', sans-serif;
+    color: #a90808;
+    font-size: 27px;
+    text-align: left;
+}
+
+#texto{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 23px;
+    color: #a29e9e;
+    text-align: left;
+    margin-right: 555px;
+}
+
+#contemporanea{
+    color: #8a0d0d;
+    font-size: 40px;
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: left;
+}
+
+#texto2{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 23px;
+    color: #a29e9e;
+    text-align: left;
+    margin-right: 555px;
+}
+
+#urbana{
+    color: #8a0d0d;
+    font-size: 40px;
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: left;
+}
+
+#texto3{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 23px;
+    color: #a29e9e;
+    text-align: left;
+    margin-right: 555px;
+}
